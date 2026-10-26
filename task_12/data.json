@@ -1,0 +1,6 @@
+[
+  {"id": 1, "title": "Утренняя пробежка", "category": "кардио", "amount": 30, "completed": true},
+  {"id": 2, "title": "Силовая на ноги", "category": "силовая", "amount": 45, "completed": false},
+  {"id": 3, "title": "Растяжка", "category": "гибкость", "amount": 15, "completed": true},
+  {"id": 4, "title": "Плавание", "category": "кардио", "amount": 40, "completed": false}
+]
